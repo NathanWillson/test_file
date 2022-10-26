@@ -70,7 +70,6 @@ The below commands are used to manage SSH keys on your local development machine
     changes
     **git remote add origin https://<username:tokenkey@>github.com/filename.git**
     
-    git remote add origin https://NathanWillson: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@github.com/NathanWillson/testfile.git
 5. changes
     NathanWillson
     
@@ -88,4 +87,3 @@ The below commands are used to manage SSH keys on your local development machine
 10. for git status
     **git status*
 
-    this is how to push our first file
